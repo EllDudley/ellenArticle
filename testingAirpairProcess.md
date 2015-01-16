@@ -1,3 +1,12 @@
+Please after reading this article, review it with thi Google form which will be sent to us at Airpair, and to the author. Please don't forget to include your name and email address if you too are participating in this program, so we can keep track of how many articles you have reviewed. 
+
+Cheers!
+Airpair
+
+LINK: http://goo.gl/forms/SAu0jmXXSC
+
+
+
 # ellenArticle
 
 As large graphical interface programs grow in features and codebase, developers must adopt design patterns to cope with the increasing complexity of their programs. The "holy grail" of GUI design patterns is typically cited as `MVC`, for Model View Controller, in which three objects are responsible for separating concerns. Yet with the proliferation of approaches and implementations in the Javascript framework ecosystems, it's quite clear that MVC is more a catch-all than a panacea. Faced with this problem, Facebook and others have explored variations on "traditional" MVC, and their discoveries can inform and improve a wide array of large Single Page Application codebases.
